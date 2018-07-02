@@ -20,5 +20,15 @@
   "defaultSeverity": "Major",
   "ruleSpecification": "RSPEC-4423",
   "sqKey": "S4423",
-  "scope": "Main"
+  "scope": "Main",
+  "securityStandards": {
+    "CWE": [
+      "CWE-327",
+      "CWE-326"
+    ],
+    "OWASP": [
+      "A3",
+      "A6"
+    ]
+  }
 }

@@ -19,5 +19,17 @@
   "defaultSeverity": "Critical",
   "ruleSpecification": "RSPEC-3330",
   "sqKey": "S3330",
-  "scope": "Main"
+  "scope": "Main",
+  "securityStandards": {
+    "CWE": [
+      "CWE-79",
+      "CWE-1004"
+    ],
+    "OWASP": [
+      "A7"
+    ],
+    "SANS Top 25": [
+      "Insecure Interaction Between Components"
+    ]
+  }
 }

@@ -18,5 +18,13 @@
   "defaultSeverity": "Minor",
   "ruleSpecification": "RSPEC-4507",
   "sqKey": "S4507",
-  "scope": "Main"
+  "scope": "Main",
+  "securityStandards": {
+    "CWE": [
+      "CWE-489"
+    ],
+    "OWASP": [
+      "A3"
+    ]
+  }
 }

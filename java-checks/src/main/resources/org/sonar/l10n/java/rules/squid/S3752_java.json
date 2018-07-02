@@ -19,6 +19,14 @@
   ],
   "defaultSeverity": "Blocker",
   "ruleSpecification": "RSPEC-3752",
-  "sqKey": "S3752",
-  "scope": "All"
+  "sqKey": "spring",
+  "scope": "All",
+  "securityStandards": {
+    "CWE": [
+      "CWE-352"
+    ],
+    "OWASP": [
+      "A6"
+    ]
+  }
 }
